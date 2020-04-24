@@ -1,11 +1,9 @@
-[Aliases]
 # account numbers to nicknames
-# example: 300000001 = Warehouse 1
+[Aliases]
+300000001 = Warehouse 1
 
-[Drop]
 # columns to drop
-# example: Retailer Name
-
+[Drop]
 Account Name
 Township/ City
 Reason Not Billed
